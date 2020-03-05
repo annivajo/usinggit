@@ -6,5 +6,7 @@ public class Main {
 
         Test t = new Test();
         System.out.println(t.getStr());
+
+        System.out.println("DEVELOP");
     }
 }
