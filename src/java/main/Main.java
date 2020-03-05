@@ -5,10 +5,5 @@ public class Main {
         System.out.println("Learning git");
 
         Test t = new Test();
-        System.out.println(t.getStr());
-        System.out.println("MASTER");
-
-
-        System.out.println("Master 2");
     }
 }

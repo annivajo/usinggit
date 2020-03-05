@@ -6,7 +6,7 @@ public class Test {
     private String name;
 
     public Test() {
-        str="Hello";
+        str="Hello world";
     }
 
     public String getStr(){
