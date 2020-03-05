@@ -8,7 +8,7 @@ public class Main {
         System.out.println(t.getStr());
         System.out.println("MASTER");
 
-        System.out.println("DEVELOP");
+
         System.out.println("Master 2");
     }
 }
